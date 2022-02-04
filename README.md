@@ -3,7 +3,7 @@
 
 <details><summary>Como foi feita a manipulação:</summary>
 <p>
-O desafio 1 consistiu na criação de uma função capaz de ordenar e retirar as duplicatas de números presentes em uma lista, o qual teve como base de solução a criação de uma função chamda uniqueListSort.
+O desafio 1 consistiu na criação de uma função capaz de ordenar e retirar as duplicatas de números presentes em uma lista, o qual teve como base de solução a criação de uma função chamda *uniqueListSort*.
 
 Essa função pega essa lista e primeiramente ordena todos os itens presentes nela de forma crescente usando uma comparação numérica dentro do *.sort()*, os quais são armazenados em *sortedList*.
 
