@@ -10,6 +10,6 @@ Essa função pega essa lista e primeiramente ordena todos os itens presentes ne
 
 Posteriormente, ela converte a lista ordenada em um *set* para que possam ser retirados os números duplicados de dentro dela, é feita uma expansão de seus valores e finalmente eles são reformatados como uma lista na variável *sortedList* novamente.
 
-Finalmente, a função retorna o valor final como uma lista ordenada numericamente e sem valores duplicados.
+Finalmente, a função retorna o valor final como uma lista ordenada numericamente de forma crescente e sem valores duplicados.
 </p>
 </details>
