@@ -1,0 +1,15 @@
+{
+  "name": "desafio-1",
+  "version": "1.0.0",
+  "main": "desafio1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
