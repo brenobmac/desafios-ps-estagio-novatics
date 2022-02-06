@@ -87,7 +87,7 @@ Caso seja encontrado um número duplicado dentro da tabela, a função retorna u
         //Reseta a tabela
         tabela.clear();
         //a e b são novas variaveis para acompanhar os indices DENTRO das tabelas 3x3.
-        //i e j serao usados para acompanhar os indices do sudoku como um todo
+        //i e j serao usados para acompanhar os indices do sudoku como um todo (primeira posicao de cada tabela)
         for (let a = 0; a < 3; a++) {
           for (let b = 0; b < 3; b++) {
             let celulaAtual = sudokuGame[3*i+a][3*j+b]; //Salta de tabela em tabela
